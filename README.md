@@ -12,7 +12,7 @@ This study focuses exclusively on recognizing emotions from facial expressions u
 - We selected TensorFlow as our deep learning framework for performing experiments due to its extensive features and ease of use. [TensorFlow Tutorial](https://www.tensorflow.org/tutorials)
 
 ### Step 2: Dataset Selection and Preparation
-- We chose the FER2013 dataset from Kaggle for our experiments.
+- We chose the [FER2013 dataset](https://www.kaggle.com/datasets/ashishpatel26/facial-expression-recognitionferchallenge) from Kaggle for our experiments.
 - The dataset was read, parsed, and loaded using TensorFlow’s data API.
 - Various transformations and augmentation techniques were applied to improve image representation.
 
